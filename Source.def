@@ -1,4 +1,4 @@
-LIBRARY   api-ms-win-core-path-hack
+LIBRARY   api-ms-win-core-path-l1-1-0
 EXPORTS  
    PathCchCanonicalizeEx   @8
    PathCchRemoveFileSpec   @16
