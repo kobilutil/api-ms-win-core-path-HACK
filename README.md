@@ -10,6 +10,7 @@ As explained [here], WinSDK 10.0.14393 fails to install correctly on Windows 7 b
 So this project implements these 2 functions so that `mdmerge.exe` is able to run.
 
 ## Installaion (tested on Win7-x64 only)
+Clone and build it yourself or download a statically precompiled [release].
 - Option 1:
 <br>After building copy the x64 dll to `system32` and the x86 dll to `SysWOW64`.
 - Option 2:
@@ -19,3 +20,4 @@ So this project implements these 2 functions so that `mdmerge.exe` is able to ru
 After the WinSDK setup installs successfully it might be safer to delete the hacky dlls from the system and hope that MS will fix this issue soon.
 
 [here]: https://connect.microsoft.com/VisualStudio/feedback/details/3054875/windows-sdk-1%200-0-14393-0-install-fails-on-windows-7
+[release]: https://github.com/kobilutil/api-ms-win-core-path-HACK/releases
