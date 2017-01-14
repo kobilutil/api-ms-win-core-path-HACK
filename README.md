@@ -19,5 +19,8 @@ Clone and build it yourself or download a statically precompiled [release].
 
 After the WinSDK setup installs successfully it might be safer to delete the hacky dlls from the system and hope that MS will fix this issue soon.
 
+## Reference
+https://connect.microsoft.com/VisualStudio/feedback/details/3054875/windows-sdk-1%200-0-14393-0-install-fails-on-windows-7
+
 [here]: https://connect.microsoft.com/VisualStudio/feedback/details/3054875/windows-sdk-1%200-0-14393-0-install-fails-on-windows-7
 [release]: https://github.com/kobilutil/api-ms-win-core-path-HACK/releases
